@@ -1,16 +1,6 @@
 #include <iostream>
 using namespace std;
 
-/*
-    Binary Search (Iterative) - Using Array
-
-    Requirements:
-    - Array must be sorted
-
-    Time Complexity: O(log n)
-    Space Complexity: O(1)
-*/
-
 int binarySearch(const int arr[], int n, int key) {
     int left = 0;
     int right = n - 1;
