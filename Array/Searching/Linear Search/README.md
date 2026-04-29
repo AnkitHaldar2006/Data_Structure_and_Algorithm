@@ -1,4 +1,4 @@
-![Linear Search Banner](banner.svg)
+
 
 # 🔎 Linear Search — C++
 

@@ -1,4 +1,3 @@
-![Jump Search Banner](banner.svg)
 
 # 🦘 Jump Search — C++
 
